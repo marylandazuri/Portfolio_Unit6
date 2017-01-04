@@ -1,11 +1,11 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("http://vignette1.wikia.nocookie.net/courage/images/8/8b/Rat.png/revision/latest?cb=20110227044449");
       background-size: cover;
-      color: white;
+      color: Pink
     }
     .nav {
-      color: white;
+      color: Black;
     }
     h1 {
       font-size: 70px;
@@ -22,7 +22,7 @@
     li {
       display: inline;
       padding: 0px 10px 0px 10px;
-    }
+    } 
     div{
       max-width: 500px;
       padding: 20px;
